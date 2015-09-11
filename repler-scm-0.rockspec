@@ -18,7 +18,7 @@ description = {
 }
 dependencies = {
    "lua ~> 5.1",
-   "love ~> 0.9" -- uses love.thread
+   "love => 0.9" -- uses love.thread
 }
 build = {
    type = "builtin",
