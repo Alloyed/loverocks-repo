@@ -1,4 +1,4 @@
-package = "bump.lua"
+package = "bump"
 version = "3.1.4-1"
 source = {
    url = "git://github.com/kikito/bump.lua",
