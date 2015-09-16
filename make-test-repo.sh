@@ -1,8 +1,8 @@
 #!/bin/sh
-for f in example-rockspecs/*.rockspec; do
+for f in *.rockspec; do
 	luarocks pack $f
-done && mkdir -p test-repo && mv *.src.rock test-repo
+done && mkdir -p build && mv *.src.rock build
 
-cd test-repo && luarocks-admin make_manifest .
+cd build && luarocks-admin make_manifest .
 
 cd ..
