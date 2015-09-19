@@ -2,6 +2,7 @@ package = "tween"
 version = "2.0.0-1"
 source = {
    url = "git://github.com/kikito/tween.lua",
+   dir = "tween.lua",
    tag = "v2.0.0"
 }
 description = {

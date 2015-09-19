@@ -2,6 +2,7 @@ package = "bump"
 version = "3.1.4-1"
 source = {
    url = "git://github.com/kikito/bump.lua",
+   dir = "bump.lua",
    tag = "3.1.4"
 }
 description = {
