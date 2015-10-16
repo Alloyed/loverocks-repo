@@ -6,10 +6,11 @@ source = {
    tag = "v2.0.0"
 }
 description = {
-   summary = "Tweening in Lua.",
+   summary = "tweening functions for lua",
    detailed = [[
-tween.lua is a small library to perform [tweening](http://en.wikipedia.org/wiki/Tweening) in Lua. It has a minimal
-interface, and it comes with several easing functions.]],
+tween.lua is a small library to perform tweening in Lua, inspired by JQuery's
+animate() method. It has a minimal interface, and it comes with several
+easing functions.]],
    homepage = "http://github.com/kikito/tween.lua",
    license = "MIT"
 }

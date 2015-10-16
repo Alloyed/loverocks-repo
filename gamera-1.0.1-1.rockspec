@@ -5,8 +5,11 @@ source = {
    tag = "v1.0.1"
 }
 description = {
-   summary = "A camera for [LÖVE](http://love2d.org).",
-   detailed = "A camera for [LÖVE](http://love2d.org).",
+   summary = "A camera system for the LOVE framework.",
+   detailed = [[
+      Gamera is a camera system for LÖVE. It supports translations, rotations,
+      and scaling.
+   ]],
    homepage = "http://github.com/kikito/gamera",
    license = "MIT"
 }

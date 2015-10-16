@@ -5,8 +5,10 @@ source = {
    tag = "v2.1.0"
 }
 description = {
-   summary = "Animation library for [LÖVE](http://love2d.org).",
-   detailed = "Animation library for [LÖVE](http://love2d.org).",
+   summary = "Animation library for the LOVE framework.",
+   detailed = [[
+Anim8 is an animation library for LÖVE that uses a grid-based system to 
+quickly define sets of animations out of spritesheets.]],
    homepage = "http://github.com/kikito/anim8",
    license = "MIT"
 }
