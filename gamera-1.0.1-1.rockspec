@@ -1,7 +1,7 @@
 package = "gamera"
 version = "1.0.1-1"
 source = {
-   url = "git://github.com/kikito/gamera",
+   url = "git://github.com/kikito/gamera.git",
    tag = "v1.0.1"
 }
 description = {

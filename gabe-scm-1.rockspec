@@ -1,10 +1,10 @@
 package = "gabe"
 version = "scm-1"
 source = {
-   url = "git://github.com/Alloyed/gabe"
+   url = "git://github.com/Alloyed/gabe.git"
 }
 description = {
-   homepage = "*** please enter a project homepage ***",
+   homepage = "http://github.com/Alloyed/gabe",
    license = "MIT"
 }
 dependencies = {
