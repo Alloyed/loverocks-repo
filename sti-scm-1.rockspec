@@ -16,7 +16,8 @@ dependencies = {
 build = {
    type = "builtin",
    modules = {
-      ["sti.framework.love"] = "framework/love.lua",
+      ["sti.plugins.bump"]  = "plugins/bump.lua",
+      ["sti.plugins.box2d"] = "plugins/box2d.lua",
       ["sti"] = "init.lua",
       ["sti.map"] = "map.lua"
    }
