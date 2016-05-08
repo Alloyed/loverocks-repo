@@ -28,6 +28,5 @@ build = {
       ["cpml.modules.utils"] = "modules/utils.lua",
       ["cpml.modules.vec2"] = "modules/vec2.lua",
       ["cpml.modules.vec3"] = "modules/vec3.lua",
-      ["cpml.modules.vec3-turbo"] = "modules/vec3-turbo.lua",
    }
 }
