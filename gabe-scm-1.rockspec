@@ -2,7 +2,7 @@ package = "gabe"
 version = "scm-1"
 source = {
    url = "git://github.com/Alloyed/gabe",
-   tag = "6f3ccb372a91f4e6ffc9ab1737961cb750f21c20"
+   --tag = "6f3ccb372a91f4e6ffc9ab1737961cb750f21c20"
 }
 description = {
    homepage = "https://github.com/Alloyed/gabe",
@@ -19,7 +19,6 @@ build = {
       ["gabe.error_handlers"] = "gabe/error_handlers.lua",
       ["gabe.runners"] = "gabe/runners.lua",
       ["gabe.love"] = "gabe/love.lua",
-      ["gabe.pickle"] = "gabe/pickle.lua",
       ["gabe.reload"] = "gabe/reload.lua",
       ["gabe.state"] = "gabe/state.lua",
    }
