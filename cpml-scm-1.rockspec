@@ -22,7 +22,6 @@ build = {
       ["cpml.modules.mat4"] = "modules/mat4.lua",
       ["cpml.modules.mesh"] = "modules/mesh.lua",
       ["cpml.modules.octree"] = "modules/octree.lua",
-      ["cpml.modules.quadtree"] = "modules/quadtree.lua",
       ["cpml.modules.quat"] = "modules/quat.lua",
       ["cpml.modules.simplex"] = "modules/simplex.lua",
       ["cpml.modules.utils"] = "modules/utils.lua",
