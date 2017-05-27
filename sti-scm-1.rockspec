@@ -16,9 +16,10 @@ dependencies = {
 build = {
    type = "builtin",
    modules = {
-      ["sti.plugins.bump"]  = "plugins/bump.lua",
-      ["sti.plugins.box2d"] = "plugins/box2d.lua",
-      ["sti"] = "init.lua",
-      ["sti.map"] = "map.lua"
+      ["sti.plugins.bump"]  = "sti/plugins/bump.lua",
+      ["sti.plugins.box2d"] = "sti/plugins/box2d.lua",
+      ["sti"] = "sti/init.lua",
+      ["sti.utils"] = "sti/utils.lua",
+      ["sti.graphics"] = "sti/graphics.lua"
    }
 }
