@@ -1,7 +1,7 @@
 package = "baton"
 version = "scm-1"
 source = {
-   url = "https://github.com/tesselode/baton.git",
+   url = "git://github.com/tesselode/baton.git",
 }
 description = {
    homepage = "https://github.com/tesselode/baton",
