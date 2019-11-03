@@ -17,7 +17,7 @@ ImGui in way that is suitable for use with the LOVE game engine.
 }
 dependencies = {
    "lua ~> 5.1",
-   "love ~> 0.11"
+   --"love ~> 11"
 }
 build = {
    type = "cmake",
